@@ -1,0 +1,2 @@
+# LeetCode-japanesedenim
+LeetCode solutions
